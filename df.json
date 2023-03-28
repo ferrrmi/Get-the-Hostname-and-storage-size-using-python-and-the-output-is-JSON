@@ -1,0 +1,14 @@
+{
+    "hostname": "parkee-client",
+    "data": [
+        {
+            "filesystem": "/dev/sdc",
+            "type": "ext4",
+            "size": "1007G",
+            "used": "4.6G",
+            "avail": "952G",
+            "use": "1%",
+            "mount": "/"
+        }
+    ]
+}
